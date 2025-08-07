@@ -1,4 +1,4 @@
-# Heathcare Facility Resilliance to Power Outages in United States
+# Healthcare Facility Resilience to Power Outages in United States
 
 In the AI4ALL Ignite program, we worked on an AI project designed to address the critical challenge of natural disasters disrupting both energy supply and health services. It proposes developing an emergency power allocation model, especially drawing from renewable energy sources, for mobile health units and backup systems in the U.S. The purpose of the project was to apply machine learning techniques to address a real-world problem while promoting responsible and ethical use of AI.
 
